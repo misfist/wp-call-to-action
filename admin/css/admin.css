@@ -1,0 +1,22 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+#main-cta-detail-wrap{
+  padding: 10px 0;
+}
+#main-cta-detail-wrap .field-row{
+  clear: both;
+  margin-bottom: 15px;
+  height: auto;
+  overflow: hidden;
+}
+#main-cta-detail-wrap .field-row .field-label{
+  min-width: 150px;
+  float: left;
+  font-weight: bold;
+}
+#main-cta-detail-wrap .field-row .field-content{
+  float: left;
+}

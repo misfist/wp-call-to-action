@@ -1,0 +1,60 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.wp-cta-wrap{
+  height: auto;
+  overflow: hidden;
+}
+
+/* Template : Default  */
+.wp-cta-template-default .wp-cta-title{
+  font-weight: bold;
+  font-size: 20px;
+}
+.wp-cta-template-default .wp-cta-button-wrap{
+  display: block;
+}
+.wp-cta-template-default .wp-cta-button {
+  border: 1px solid #AAA;
+  border-radius: 5px;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+/* Template : Blue Sky  */
+.wp-cta-template-blue-sky{
+  text-align: center;
+}
+.wp-cta-template-blue-sky .wp-cta-title{
+  color: #225954;
+  font-weight: bold;
+  font-size: 20px;
+  border-bottom: 1px #84DAD1 solid;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+.wp-cta-template-blue-sky .wp-cta-content{
+  color: #225954;
+}
+.wp-cta-template-blue-sky .wp-cta-button-wrap{
+  display: block;
+}
+.wp-cta-template-blue-sky .wp-cta-button {
+  background-color: #84DAD1;
+  color: #225954 !important;
+  border: 1px solid #225954;
+  border-radius: 5px;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  padding: 5px 10px;
+  text-decoration: none;
+}

@@ -1,0 +1,14 @@
+{
+    "name": "misfist/wp-call-to-action",
+    "description": "Create and display calls to action on your site.",
+    "type": "wordpress-plugin",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Pea",
+            "email": "pea@misfist.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
