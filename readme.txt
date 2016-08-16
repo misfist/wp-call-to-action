@@ -1,4 +1,4 @@
-=== WEN Call To Action ===
+=== WP Call To Action ===
 Contributors: misfist
 Tags: Call To Action, Calls To Action, CTA, CTA Button, shortcode, widget, call outs, call out, message box, conversion box, button, shortcode button
 Requires at least: 4.4
